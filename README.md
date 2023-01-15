@@ -1,16 +1,16 @@
 # Rick and Morty App
 
-## A React native app which shows rick & morty characters list in an infinite scroll view along with characters & episode details.
+### A React native app which shows rick & morty characters list in an infinite scroll view along with characters & episode details.
 
 #### Tech used - React Native 0.70.6 (Latest as of 15/01/2023)
 
 ### APK
 
-[APK]: (https://drive.google.com/file/d/1WxCRpbCNqT2N0vNbH5SyLW6Rs0ARkeGX/view?usp=sharing)
+[APK LINK!](https://drive.google.com/file/d/1WxCRpbCNqT2N0vNbH5SyLW6Rs0ARkeGX/view?usp=sharing)
 
 ### App Video Demo
 
-[App Video Demo]: (https://drive.google.com/file/d/1VW0v9zqlYY4V2bRDjbAJ8-QDwncd6Kz9/view?usp=sharing)
+[App Video Demo](https://drive.google.com/file/d/1VW0v9zqlYY4V2bRDjbAJ8-QDwncd6Kz9/view?usp=sharing)
 
 ### Project Details:
 
@@ -18,8 +18,8 @@
 2. UI libary : React Native Paper (https://reactnativepaper.com/)
 3. Icons : React Native Vector Icons (https://aboutreact.com/react-native-vector-icons/)
 
-_PROJECT has linting enabled (eslint)_
-_PROJECT includes UI & Function testing testcases & setup (testing-library/react-native)_
+**_PROJECT has linting enabled (eslint)_**
+**_PROJECT includes UI & Function testing testcases & setup (testing-library/react-native)_**
 
 ### App Details:
 
