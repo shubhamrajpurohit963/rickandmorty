@@ -4,6 +4,10 @@
 
 #### Tech used - React Native 0.70.6 (Latest as of 15/01/2023)
 
+##### _PROJECT has linting enabled (eslint)_
+
+##### _PROJECT includes UI & Function testing testcases & setup (testing-library/react-native)_
+
 ### APK
 
 [APK LINK!](https://drive.google.com/file/d/1WxCRpbCNqT2N0vNbH5SyLW6Rs0ARkeGX/view?usp=sharing)
@@ -17,9 +21,6 @@
 1. APIs by : The Rick and Morty API (https://rickandmortyapi.com/documentation/#rest)
 2. UI libary : React Native Paper (https://reactnativepaper.com/)
 3. Icons : React Native Vector Icons (https://aboutreact.com/react-native-vector-icons/)
-
-**_PROJECT has linting enabled (eslint)_**
-**_PROJECT includes UI & Function testing testcases & setup (testing-library/react-native)_**
 
 ### App Details:
 
